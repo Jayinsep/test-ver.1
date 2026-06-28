@@ -1,6 +1,5 @@
 print("test jaa")
 print("test 2")
-
 print("test jaa")
 print("test 2")
 print("888")
@@ -21,3 +20,5 @@ if cream =="cream":
     print("your is cream")
 else:
     print("sry your name is not cream")
+
+
